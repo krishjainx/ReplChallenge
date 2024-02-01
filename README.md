@@ -3,7 +3,10 @@
 
 ## Run Tests
 
+```bash
+
 python test_ot_validation.py
+```
 
 ## Catching up
 
